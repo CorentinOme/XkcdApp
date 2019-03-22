@@ -1,5 +1,7 @@
 # XkcdApp
 
+L'API utilisée est [Xkcd](https://xkcd.com/) et fournit des bande dessinée en ligne créées par Randall Munroe, un ancien consultant sur les robots à la NASA.
+
 ## Ajouter une image
 Pour ajouter aléatoirement une image, il vous suffit de d'appuyer sur le bouton d'ajout en bas à droite de l'écran.
 
