@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">XkcdApp</string>
+    <string name="action_deleteAll">Remove all</string>
+    <string name="yearLabel">Year</string>
+    <string name="transcriptLabel">Transcript</string>
+    <string name="url">Url link</string>
+    <string name="internetConnection">To download a new image, please connect to the Internet.</string>
+</resources>
